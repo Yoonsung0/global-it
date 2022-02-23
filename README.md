@@ -1,2 +1,5 @@
 # global-it
-global
+
+이 저장소는 
+
+
