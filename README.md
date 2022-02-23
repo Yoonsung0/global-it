@@ -1,0 +1,2 @@
+# global-it
+global
